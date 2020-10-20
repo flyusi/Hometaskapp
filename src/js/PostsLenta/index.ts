@@ -1,0 +1,1 @@
+export { PostsLenta } from "./PostsLenta";

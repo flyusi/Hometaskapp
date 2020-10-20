@@ -1,0 +1,1 @@
+export { GalleryLenta } from "./GalleryLenta";
